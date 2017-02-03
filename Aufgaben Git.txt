@@ -1,0 +1,25 @@
+1.  Git Grundlagen
+	
+	1.1 Clone das Repository aus dem Internet https://github.com/SvnGpsk/SchulungBS14.git
+	
+	1.2 Lege eine neue .txt-Datei im geklonten Repo an, füge diese zum Index hinzu und committe deine Arbeit.
+
+	1.3 Frage die neuesten Änderungen aus dem remote Repo ab.
+
+	1.4 Pushe die eigenen Änderungen ins remote Repo.
+
+	1.5 Verändere die eigene Textdatei. 
+
+	1.6 Publiziere auch deine neuen Änderungen.
+
+2. Branching
+
+	2.1 Erstelle einen neuen Feature-Branch und wechsle auf den neuen Feature-Branch.
+
+	2.2 Mache eine Änderung in deinem neuen Feature-Branch and deiner .txt-Datei.
+
+	2.3 Pushe deinen neuen Feature-Branch mit der Änderung ins remote Repo.
+
+	2.4 Merge den neuen Feature-Branch zurück in den master Branch
+
+	2.5 Lösche den Feature-Branch remote und lokal.
