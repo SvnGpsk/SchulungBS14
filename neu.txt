@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hallo
 Lara arbeitet wirklich nicht doch
+=======
+halllo
+>>>>>>> 352966e43d8afa3fc1357f1560ce6e63e4487f80
